@@ -1,0 +1,7 @@
+{
+    "path" : "storage_dir",
+    "wbName" : "ExcelWorkbook.xlsx",
+    "wsName" : "ExcelWorksheet",
+    "tableKey" : "Table_",
+    "tableColz" : ["Index", "Item", "Keys", "Amount"]
+}
