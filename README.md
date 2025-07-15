@@ -44,6 +44,8 @@ Example:
 
 - Pandas
 - Openpyxl
+- os
+- json
 - Datetime
 
 
